@@ -39,6 +39,9 @@
   font-style: italic;
 }
 
+.dsp1{display: inline-block;}
+.dsp2{display: inline;}
+
 .icn{color: black;}
 .icn:hover{color: #f92f57;}
 
