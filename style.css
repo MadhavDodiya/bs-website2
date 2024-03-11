@@ -63,3 +63,6 @@
 
 .btn3{padding: 10px 25px;border: 1px solid white;background: none;border-radius: 10px;color: white;font-size: 20px;}
 .btn3:hover{padding: 10px 25px;border: 1px solid white;background: #f92f57;border-radius: 10px;color: white;font-size: 20px;transition: 0.5s;}
+
+.btn4{padding: 10px 30px;border: none;background: black;border-radius: 5px;color: white;transition: 0.5s;}
+.btn4:hover{padding: 10px 30px;border: none;background: #f92f57;border-radius: 5px;color: white;transition: 0.5s;}
