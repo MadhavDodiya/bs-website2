@@ -47,6 +47,8 @@
 
 .txt:hover{color: #f92f57;transition: 0.5s;}
 
+.clr{color: #f92f57 !important;}
+
 .box1{border-radius: 15px;border: 2px solid black;}
 .box1:hover{border-radius: 15px;border: 2px solid black;box-shadow: 5px 5px 0px 0px black;transition: 0.5s;}
 /* margin */
@@ -72,3 +74,9 @@
 
 .btn5{padding: 15px 30px;border-radius: 20px;border: 2px solid black;}
 .btn5:hover{padding: 15px 30px;border-radius: 20px;border: 2px solid #f92f57;}
+
+.btn6{padding: 10px 25px;border: none;border-radius: 10px;color: white;background: black;}
+.btn6:hover{padding: 10px 25px;border: none;border-radius: 10px;color: white;background: #f92f57;transition: 0.5s;}
+
+.btn7{padding: 10px 30px;border: none;border-radius: 10px;color: white;background: black;}
+.btn7:hover{padding: 10px 30px;border: none;border-radius: 10px;color: white;background: #f92f57;transition: 0.5s;}
